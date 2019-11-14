@@ -1,5 +1,6 @@
 # Leap-Music-Player
 Play and control your music using gesture controls! This was developed as a prototype for a smart ring with the same functionality, to prove that gesture based controls for controlling music would be viable.
+![Leap-Music-Player Screenshot](LeapMusicPlayer.png?raw=true "LeapMusicPlayer")
 
 # Setup
 
